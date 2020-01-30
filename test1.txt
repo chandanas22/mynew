@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A26B-998B
-
- Directory of C:\Users\Chandana\Desktop\myfolder
-
-30-01-2020  12:20    <DIR>          .
-30-01-2020  12:20    <DIR>          ..
-30-01-2020  12:20                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  230,638,968,832 bytes free
+change one
